@@ -1,4 +1,5 @@
+task 3: 3-print_number.py
 #!/usr/bin/python3
 number = 98
-print(f"{number} Battery street", end="")
+print(f"{number:d} Battery street")
 
